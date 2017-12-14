@@ -1,5 +1,4 @@
-# Hello-world
-My first repository
-My changes are here!
+# My little web-site project
 
-I've wrote this line from local directory withing command line!
+Here there is file with HTML-code and one with CSS-code.
+Do not judge strictly please. It's just my attemptions of studying Github and web-developping.  
